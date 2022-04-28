@@ -4,6 +4,8 @@
 
 _Sample created by [Erica Pisani](https://github.com/ericapisani) in the [Next.js Plugin for Netlify Repository](https://github.com/netlify/netlify-plugin-nextjs/tree/main/demos/next-auth). This sample is in its own repository to make deployment easier._
 
+![Example of logging in with Netlify in a Next.js application](media/login-demo.gif)
+
 This example project came from [`next-auth-example`](https://github.com/nextauthjs/next-auth-example) provided by the [NextAuth.js](https://next-auth.js.org/) and was modified to use Netlify as the authentication provider.
 
 For more details on how to get set up and configured with various providers, [visit the original repository](https://github.com/nextauthjs/next-auth-example).
@@ -43,4 +45,4 @@ To create a Netlify OAuth application:
   * If you're testing this on a deployed Netlify site, you'll need to set the environment variables as part of the `Site Settings > Build & Deploy > Environment` settings. You'll also need to generate a [`NEXTAUTH_SECRET`](https://next-auth.js.org/configuration/options#nextauth_secret) environment variable and set that for a production build. The variable can be a random value that you compute for your application.
   * If you are deploying from this template, you can specify the variables as you go through the deployment process.
 
-For configuring additional authentication providers, see [the official documentation](https://github.com/nextauthjs/next-auth-example#3-configure-authentication-providers)
+For configuring additional authentication providers, see [the official documentation](https://github.com/nextauthjs/next-auth-example#3-configure-authentication-providers).
