@@ -20,3 +20,4 @@ package = "@netlify/plugin-local-install-core"
 [template.environment]
 NETLIFY_CLIENT_ID = "Netlify Client ID"
 NETLIFY_CLIENT_SECRET = "Netlify Client Secret"
+NEXTAUTH_SECRET = "NextAuth Secret"
