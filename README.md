@@ -1,5 +1,7 @@
 ## NextAuth.js Example
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/localden/sample-nextauth-netlify)
+
 This example project came from [next-auth-example](https://github.com/nextauthjs/next-auth-example) provided by the NextAuth.js and was modified to use Netlify as the authentication provider as an example.
 
 For more details on how to get set up and configured with various providers, visit the link above.
